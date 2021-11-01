@@ -1,4 +1,20 @@
+/*! \file
+ *  This file includes some hashing algorithms implementations.
+ */
+
+
+
+
+/*================= Connectiong headers ==================*/
+
+
 #include "hash.h"
+
+
+
+
+/*=================== Global functions ===================*/
+
 
 uint64_t pearson_hash64 (const void *data, size_t len)
 {

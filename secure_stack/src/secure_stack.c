@@ -1,3 +1,8 @@
+/*! \file
+ *  A source code of functions for working with the stack.
+ */
+
+
 
 
 /*================= Connectiong headers ==================*/

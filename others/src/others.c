@@ -1,12 +1,24 @@
+/*! \file
+ *  This file includes source code of some small different functions.
+ */
+
+
+
+
+/*================= Connectiong headers ==================*/
+
+
 #include "others.h"
 #include "../../logging/src/logging.h"
-
 
 #include <errno.h>
 #include <unistd.h>
 #include <stddef.h>
 
 
+
+
+/*=================== Global functions ===================*/
 
 
 inline bool is_bad_byte_ptr (const void *ptr)

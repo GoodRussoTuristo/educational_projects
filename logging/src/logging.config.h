@@ -1,3 +1,8 @@
+/*! \file
+ *  This is logging library config.
+ */
+
+
 #include "../../config_create/config_create.h"
 
 #define LOGGING ON
